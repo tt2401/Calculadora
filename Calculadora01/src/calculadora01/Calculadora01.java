@@ -6,10 +6,9 @@
 package calculadora01;
 
 /**
- *pepeluis
  * @author dam
  * Este es el primer comentario en la clase carculadora01
- *otra línea loco
+ * otra línea
  */
 public class Calculadora01 {
     
