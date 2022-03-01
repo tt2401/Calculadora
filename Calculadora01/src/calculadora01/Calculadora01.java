@@ -6,7 +6,7 @@
 package calculadora01;
 
 /**
- *
+ *pepeluis
  * @author dam
  * Este es el primer comentario en la clase carculadora01
  */
