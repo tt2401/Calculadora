@@ -74,7 +74,7 @@ public class Calculadora01 {
 
 
     public static void main(String[] args) {
-        Calculadora calcu = new Calculadora(20, 10);
+        
         System.out.println(calcu.suma());
     }
 }
