@@ -10,13 +10,11 @@ package calculadora01;
  * @author dam
  */
 public class Calculadora01 {
-
-    public class Calculadora {
-
+    
         private int num1;
         private int num2;
 
-        public Calculadora(int a, int b) {
+        public Calculadora01(int a, int b) {
             num1 = a;
             num2 = b;
         }
@@ -70,10 +68,9 @@ public class Calculadora01 {
                 int result = num1 / num2;
                 return result;
             }
-        }
-    }
-
-
+}
     public static void main(String[] args) {
+        Calculadora01 calcu = new Calculadora01(20, 10);
+        System.out.println(calcu.suma());
     }
 }
