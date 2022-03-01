@@ -24,6 +24,7 @@ public class Calculadora01 {
         public int suma() {
             int result = num1 + num2;
             return result;
+            
         }
 
         public int resta() {
